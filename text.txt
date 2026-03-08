@@ -1,0 +1,11 @@
+Hello Gauri
+Learning Python
+
+Mode	Description
+'r'	Read (default) – Opens file for reading, raises an error if file does not exist.
+'w'	Write – Opens file for writing, creates a new file if not found, and overwrites existing content.
+'a'	Append – Opens file for writing, creates a new file if not found, and appends content instead of overwriting.
+'x'	Create – Creates a new file, but fails if the file already exists.
+'b'	Binary mode – Used with rb, wb, ab, etc., for working with non-text files (e.g., images, PDFs).
+'t'	Text mode (default) – Used for text files (e.g., rt, wt).
+This line is appended
